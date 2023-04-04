@@ -7,19 +7,19 @@ O desafio consiste em implementar uma aplicação Web utilizando PHP Extruturado
 </br>
 Você deverá criar uma aplicação de cadastro de pedidos de compra, a partir de uma modelagem inicial, com as seguintes funcionalidades: </br>
 </br>
-<li>
-<ul>CRUD de clientes.</ul></br>
-<ul>CRUD de produtos.</ul></br>
-<ul>CRUD de pedidos de compra, com status (Em Aberto, Pago ou Cancelado).</ul></br>
-<ul>Cada CRUD:</ul></br>
-  <li>
-  <ul>deve ser filtrável e ordenável por qualquer campo, e possuir paginação de 20 itens.</ul></br>
-  <ul>deve possuir formulários para criação e atualização de seus itens.</ul></br>
-  <ul>deve permitir a deleção de qualquer item de sua lista.</ul></br>
-  </li>
-<ul>Barra de navegação entre os CRUDs.</ul></br>
-<ul>Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)</ul></br>
-</li>
+<ul>
+<li>CRUD de clientes.</li></br>
+<li>CRUD de produtos.</li></br>
+<li>CRUD de pedidos de compra, com status (Em Aberto, Pago ou Cancelado).</li></br>
+<li>Cada CRUD:</li></br>
+  <ul>
+  <li>deve ser filtrável e ordenável por qualquer campo, e possuir paginação de 20 itens.</li></br>
+  <li>deve possuir formulários para criação e atualização de seus itens.</li></br>
+  <li>deve permitir a deleção de qualquer item de sua lista.</li></br>
+  </ul>
+<li>Barra de navegação entre os CRUDs.</li></br>
+<li>Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)</li></br>
+</ul>
 </br>
 Modelo de dados</br>
 </br>
