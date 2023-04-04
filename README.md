@@ -24,7 +24,9 @@ Você deverá criar uma aplicação de cadastro de pedidos de compra, a partir d
 Modelo de dados</br>
 </br>
 A modelagem inicial para a implementação solução é a seguinte:</br>
-https://user-images.githubusercontent.com/129857318/229796606-c88f34c7-2b7e-4d51-a26b-1b79ded549f2.png </br>
+<image>
+https://user-images.githubusercontent.com/129857318/229796606-c88f34c7-2b7e-4d51-a26b-1b79ded549f2.png 
+</image></br>
 Você deve alterar esta modelagem para que a mesma cumpra com as três primeiras formas normais.</br>
 </br>
 Tecnologias a serem utilizadas</br>
