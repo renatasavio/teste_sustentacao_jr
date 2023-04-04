@@ -25,7 +25,8 @@ Modelo de dados</br>
 </br>
 A modelagem inicial para a implementação solução é a seguinte:</br>
 
-<img src='https://user-images.githubusercontent.com/129857318/229796606-c88f34c7-2b7e-4d51-a26b-1b79ded549f2.png'>
+<img src='https://user-images.githubusercontent.com/129857318/229849782-b4a158ad-9cf9-45b4-b1c2-ea1849429574.png'>
+
 </br>
 Você deve alterar esta modelagem para que a mesma cumpra com as três primeiras formas normais.</br>
 </br>
