@@ -9,13 +9,12 @@ Você deverá criar uma aplicação de cadastro de pedidos de compra, a partir d
 <ul>
 <li>CRUD de Clientes.</li>
 <li>CRUD de Produtos.</li>
-<li>CRUD de Pedido.</li>
 <li>Cada CRUD:</li>
   <ul>
   <li>Deve possuir formulários para cadastro e atualização de seus itens.</li>
   <li>Deve permitir a exclusão de qualquer item de sua lista.</li>
   </ul>
-<li>Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)</li>
+<li>Links para os outros CRUDs nas listagens</li>
 </ul>
 </br>
 Modelo de dados</br>
