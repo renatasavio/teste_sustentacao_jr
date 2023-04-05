@@ -1,7 +1,7 @@
 # teste_sustentacao_jr
 Teste para Sustentação Jr</br>
 </br>
-Instruções </br>
+Instruções:
 </br>
 O desafio consiste em implementar uma aplicação Web utilizando PHP Estruturado, e um banco de dados relacional MySQL, a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução.</br>
 </br>
@@ -17,7 +17,7 @@ Você deverá criar uma aplicação de cadastro de Produtos a partir de uma mode
 <li>Links para os outros CRUDs nas listagens</li>
 </ul>
 </br>
-Tecnologias a serem utilizadas
+Tecnologias a serem utilizadas:
 </br>
 Devem ser utilizadas as seguintes tecnologias:</br>
 <ul>
@@ -25,24 +25,26 @@ Devem ser utilizadas as seguintes tecnologias:</br>
   <li>CSS</li>
   <li>JQuery</li>
 </ul>
-Entrega</br>
+Entrega:
+</br>
 <ul>
   <li>Para iniciar o teste, faça um fork deste repositório; Se você apenas clonar o repositório não vai conseguir fazer push.</li>
   <li>Crie uma branch com o seu nome completo;</li>
   <li>Altere o arquivo README.md com as informações necessárias para executar o seu teste;</li>
   <li>Depois de finalizado, envie-nos o pull request;</li>
 </ul>
-Bônus</br>
+Bônus:
+</br>
 <ul>
   <li>Implementar autenticação de usuário na aplicação.</li>
   <li>Permitir exclusão em massa de itens nos CRUDs.</li>
   <li>Implementar a camada de Front-End utilizando a biblioteca javascript Bootstrap e ser responsiva.</li>
 </ul>
-O que iremos analisar</br>
+O que iremos analisar:
+</br>
 <ul>
   <li>Organização do código;</li>
   <li>Legibilidade;</li>
   <li>Raciocínio Lógico;</li>
 </ul>
-</br>
 Boa sorte!</br>
