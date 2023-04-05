@@ -5,9 +5,9 @@ Instruções </br>
 </br>
 O desafio consiste em implementar uma aplicação Web utilizando PHP Estruturado, e um banco de dados relacional MySQL, a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. </br>
 </br>
-Você deverá criar uma aplicação de cadastro de pedidos de compra, a partir de uma modelagem inicial, com as seguintes funcionalidades: </br>
+Você deverá criar uma aplicação de cadastro de Produtos a partir de uma modelagem inicial, com as seguintes funcionalidades: </br>
 <ul>
-<li>CRUD de Clientes.</li>
+<li>CRUD de Categorias.</li>
 <li>CRUD de Produtos.</li>
 <li>Cada CRUD:</li>
   <ul>
@@ -25,7 +25,7 @@ Devem ser utilizadas as seguintes tecnologias:</br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
+  <li>JQuery</li>
 </ul>
 Entrega</br>
 <ul>
