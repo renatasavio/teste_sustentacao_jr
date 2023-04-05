@@ -3,7 +3,7 @@ Teste para Sustentação Jr</br>
 </br>
 Instruções </br>
 </br>
-O desafio consiste em implementar uma aplicação Web utilizando PHP Estruturado, e um banco de dados relacional MySQL, a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. </br>
+O desafio consiste em implementar uma aplicação Web utilizando PHP Estruturado, e um banco de dados relacional MySQL, a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução.
 </br>
 Você deverá criar uma aplicação de cadastro de Produtos a partir de uma modelagem inicial, com as seguintes funcionalidades: </br>
 <ul>
@@ -16,8 +16,6 @@ Você deverá criar uma aplicação de cadastro de Produtos a partir de uma mode
   </ul>
 <li>Links para os outros CRUDs nas listagens</li>
 </ul>
-</br>
-Modelo de dados</br>
 </br>
 Tecnologias a serem utilizadas
 </br>
@@ -40,7 +38,6 @@ Bônus</br>
   <li>Permitir exclusão em massa de itens nos CRUDs.</li>
   <li>Implementar a camada de Front-End utilizando a biblioteca javascript Bootstrap e ser responsiva.</li>
 </ul>
-
 O que iremos analisar</br>
 <ul>
   <li>Organização do código;</li>
